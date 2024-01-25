@@ -1,0 +1,214 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Blue Shirt",
+      "description": "A comfortable blue cotton shirt",
+      "price": 19.99,
+      "imageUrl": "https://picsum.photos/id/10/200/300"
+    },
+    {
+      "id": 2,
+      "name": "Black Coffee Mug",
+      "description": "A sturdy black coffee mug",
+      "price": 9.99,
+      "imageUrl": "https://picsum.photos/id/20/200/300"
+    },
+    {
+      "id": 3,
+      "name": "Wireless Headphones",
+      "description": "High quality wireless headphones",
+      "price": 99.99,
+      "imageUrl": "https://picsum.photos/id/30/200/300"
+    },
+    {
+      "id": 4,
+      "name": "Leather Backpack",
+      "description": "Stylish and durable leather backpack",
+      "price": 79.99,
+      "imageUrl": "https://picsum.photos/id/40/200/300"
+    },
+    {
+      "id": 5,
+      "name": "Digital Camera",
+      "description": "High-resolution digital camera",
+      "price": 349.99,
+      "imageUrl": "https://picsum.photos/id/50/200/300"
+    },
+    {
+      "id": 6,
+      "name": "Stainless Steel Watch",
+      "description": "Elegant stainless steel watch",
+      "price": 250.00,
+      "imageUrl": "https://picsum.photos/id/60/200/300"
+    },
+    {
+      "id": 7,
+      "name": "Kitchen Mixer",
+      "description": "Efficient and durable kitchen mixer",
+      "price": 120.00,
+      "imageUrl": "https://picsum.photos/id/70/200/300"
+    },
+    {
+      "id": 8,
+      "name": "Bluetooth Speaker",
+      "description": "Portable Bluetooth speaker",
+      "price": 45.99,
+      "imageUrl": "https://picsum.photos/id/80/200/300"
+    },
+    {
+      "id": 9,
+      "name": "Running Shoes",
+      "description": "Durable and comfortable running shoes",
+      "price": 75.00,
+      "imageUrl": "https://picsum.photos/id/90/200/300"
+    },
+    {
+      "id": 10,
+      "name": "Desk Lamp",
+      "description": "LED desk lamp with adjustable brightness",
+      "price": 32.50,
+      "imageUrl": "https://picsum.photos/id/100/200/300"
+    },
+    {
+      "id": 11,
+      "name": "Yoga Mat",
+      "description": "Non-slip yoga mat",
+      "price": 29.99,
+      "imageUrl": "https://picsum.photos/id/110/200/300"
+    },
+    {
+      "id": 12,
+      "name": "Notebook",
+      "description": "Hardcover notebook for all your notes",
+      "price": 14.99,
+      "imageUrl": "https://picsum.photos/id/120/200/300"
+    },
+    {
+      "id": 13,
+      "name": "Gardening Gloves",
+      "description": "Durable gardening gloves",
+      "price": 10.99,
+      "imageUrl": "https://picsum.photos/id/130/200/300"
+    },
+    {
+      "id": 14,
+      "name": "Electric Toothbrush",
+      "description": "Rechargeable electric toothbrush",
+      "price": 79.99,
+      "imageUrl": "https://picsum.photos/id/140/200/300"
+    },
+    {
+      "id": 15,
+      "name": "Electric Kettle",
+      "description": "Fast-boiling electric kettle",
+      "price": 39.99,
+      "imageUrl": "https://picsum.photos/id/150/200/300"
+    },
+    {
+      "id": 16,
+      "name": "Sunglasses",
+      "description": "UV protection sunglasses",
+      "price": 99.99,
+      "imageUrl": "https://picsum.photos/id/160/200/300"
+    },
+    {
+      "id": 17,
+      "name": "Tennis Racket",
+      "description": "Lightweight tennis racket",
+      "price": 199.99,
+      "imageUrl": "https://picsum.photos/id/170/200/300"
+    },
+    {
+      "id": 18,
+      "name": "Sleeping Bag",
+      "description": "Warm and comfortable sleeping bag",
+      "price": 99.99,
+      "imageUrl": "https://picsum.photos/id/180/200/300"
+    },
+    {
+      "id": 19,
+      "name": "BBQ Grill",
+      "description": "Portable BBQ grill",
+      "price": 199.99,
+      "imageUrl": "https://picsum.photos/id/190/200/300"
+    },
+    {
+      "id": 20,
+      "name": "Bicycle Helmet",
+      "description": "Safe and comfortable bicycle helmet",
+      "price": 49.99,
+      "imageUrl": "https://picsum.photos/id/200/200/300"
+    },
+    {
+      "id": 21,
+      "name": "Cookbook",
+      "description": "Cookbook with 100+ recipes",
+      "price": 24.99,
+      "imageUrl": "https://picsum.photos/id/210/200/300"
+    },
+    {
+      "id": 22,
+      "name": "Chess Set",
+      "description": "Handcrafted wooden chess set",
+      "price": 59.99,
+      "imageUrl": "https://picsum.photos/id/220/200/300"
+    },
+    {
+      "id": 23,
+      "name": "Rubik's Cube",
+      "description": "Classic Rubik's cube",
+      "price": 9.99,
+      "imageUrl": "https://picsum.photos/id/230/200/300"
+    },
+    {
+      "id": 24,
+      "name": "Water Bottle",
+      "description": "Insulated water bottle",
+      "price": 19.99,
+      "imageUrl": "https://picsum.photos/id/240/200/300"
+    },
+    {
+      "id": 25,
+      "name": "Frisbee",
+      "description": "High-quality frisbee for outdoor fun",
+      "price": 12.99,
+      "imageUrl": "https://picsum.photos/id/250/200/300"
+    },
+    {
+      "id": 26,
+      "name": "Yoga Blocks",
+      "description": "Durable foam yoga blocks",
+      "price": 20.99,
+      "imageUrl": "https://picsum.photos/id/260/200/300"
+    },
+    {
+      "id": 27,
+      "name": "Gym Bag",
+      "description": "Spacious and durable gym bag",
+      "price": 35.99,
+      "imageUrl": "https://picsum.photos/id/270/200/300"
+    },
+    {
+      "id": 28,
+      "name": "Running Socks",
+      "description": "Comfortable and breathable running socks",
+      "price": 14.99,
+      "imageUrl": "https://picsum.photos/id/280/200/300"
+    },
+    {
+      "id": 29,
+      "name": "Fitness Tracker",
+      "description": "Track your fitness goals",
+      "price": 79.99,
+      "imageUrl": "https://picsum.photos/id/290/200/300"
+    },
+    {
+      "id": 30,
+      "name": "Graphic Novel",
+      "description": "Engaging and beautifully illustrated graphic novel",
+      "price": 14.99,
+      "imageUrl": "https://picsum.photos/id/300/200/300"
+    }
+  ]
+}
