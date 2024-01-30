@@ -39,6 +39,23 @@ For more specifics on these folder structures, refer to the document located in 
 ## Basic Concepts in Flutter
 ### Widget Tree
 In Flutter, everything is a widget. The widget tree represents the hierarchical order of widgets in the app. Widgets can be stateful (with mutable state) or stateless (immutable).
+
+### Packages
+Although in Flutter there is a very large built in [Widget Library](https://flutter.dev/docs/development/ui/widgets) that you can use to build almost any sort of user interface, we also have access to an exhaustive library of [online packages](https://pub.dev). Here you will find all the third party packages created by other developers for Dart and Flutter. It provides a rating system to help you make decisions about the most maintained and well documented packages.
+
+To make things even easier, the Flutter team has a youtube channel which quickly highlights the use of [different widgets](https://www.youtube.com/playlist?list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG) and [packages](https://www.youtube.com/playlist?list=PLjxrf2q8roU1quF6ny8oFHJ2gBdrYN_AK)
+
+When loading in a new project from Github or any other source. The first step you will want to take is to load these packages into your local machine. To do this we can take advantage of our Flutter extension by selecting the pubspec.yaml file, then saving any changes to it or by using the command
+```bash
+flutter pub get
+```
+***
+### VSCode Settings
+In this project you will see a .vscode folder. It contains settings about how Visual Studio Code should behave in certain scenarios. The settings allow for autoformatting code on saves, quick-fixing errors on save and organising imports on save. 
+
+These settings will speed up development, One thing to note though is due to the quick-fixing on save, Flutter's quick-fix will add const to any declared object or assigned a fixed value to save on performance.
+
+While this is a useful feature, if you would like to go back to change this to a rely on a variable state. You will need to remove this const to prevent an error showing
 ***
 ### Entry Point: main.dart
 The main.dart file is the starting point of a Flutter app. It contains the main() function and the root widget, typically a MaterialApp or CupertinoApp.
